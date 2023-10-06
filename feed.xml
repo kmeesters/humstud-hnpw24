@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The Next Generation @ HNPW 24</title>
+    <link href="https://hnpw24.humanitarianstudents.org/feed.xml" rel="self" />
+    <link href="https://hnpw24.humanitarianstudents.org" />
+    <updated>2023-10-06T22:32:26+02:00</updated>
+    <author>
+        <name>Kenny Meesters</name>
+    </author>
+    <id>https://hnpw24.humanitarianstudents.org</id>
+
+    <entry>
+        <title>Welkom</title>
+        <author>
+            <name>Kenny Meesters</name>
+        </author>
+        <link href="https://hnpw24.humanitarianstudents.org/welkom.html"/>
+        <id>https://hnpw24.humanitarianstudents.org/welkom.html</id>
+
+        <updated>2023-10-06T22:32:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Program
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div class="post__toc">
+    <h3>ToC</h3>
+    <ul>
+      <li><a href="#program">Program</a></li>
+    </ul>
+  </div>
+  
+
+    <h2 id="program">
+      Program
+    </h2>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

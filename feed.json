@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Next Generation @ HNPW 24",
+    "description": "",
+    "home_page_url": "https://hnpw24.humanitarianstudents.org",
+    "feed_url": "https://hnpw24.humanitarianstudents.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kenny Meesters"
+    },
+    "items": [
+        {
+            "id": "https://hnpw24.humanitarianstudents.org/welkom.html",
+            "url": "https://hnpw24.humanitarianstudents.org/welkom.html",
+            "title": "Welkom",
+            "summary": "Program",
+            "content_html": "\n  <div class=\"post__toc\">\n    <h3>ToC</h3>\n    <ul>\n      <li><a href=\"#program\">Program</a></li>\n    </ul>\n  </div>\n  \n\n    <h2 id=\"program\">\n      Program\n    </h2>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kenny Meesters"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-06T22:32:26+02:00",
+            "date_modified": "2023-10-06T22:32:26+02:00"
+        }
+    ]
+}
