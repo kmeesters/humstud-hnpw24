@@ -10,8 +10,50 @@
     },
     "items": [
         {
-            "id": "https://hnpw24.humanitarianstudents.org/welkom.html",
-            "url": "https://hnpw24.humanitarianstudents.org/welkom.html",
+            "id": "https://hnpw24.humanitarianstudents.org/join-us-hnpw-2024/",
+            "url": "https://hnpw24.humanitarianstudents.org/join-us-hnpw-2024/",
+            "title": "Join us @ HNPW 2024",
+            "summary": "There are various options to join HNPW 2024 Remotely",
+            "content_html": "\n  <p id=\"remotely\">\n    There are various options to join HNPW 2024\n  </p>\n\n    <h2 id=\"remotely\">\n      Remotely\n    </h2>\n\n  <p>\n    Remotely\n  </p>\n\n    <h2 id=\"in-person\">\n      In-Person\n    </h2>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kenny Meesters"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-10T21:39:35+02:00",
+            "date_modified": "2023-10-10T21:47:35+02:00"
+        },
+        {
+            "id": "https://hnpw24.humanitarianstudents.org/about/",
+            "url": "https://hnpw24.humanitarianstudents.org/about/",
+            "title": "About",
+            "summary": "HNPW USSG Organizing team",
+            "content_html": "\n    <h2 id=\"hnpw\">\n      HNPW\n    </h2>\n\n    <h2 id=\"ussg\">\n      USSG\n    </h2>\n\n    <h2 id=\"organizing-team\">\n      Organizing team\n    </h2>",
+            "image": "https://hnpw24.humanitarianstudents.org/media/posts/6/IMG_20190206_083055-2.jpg",
+            "author": {
+                "name": "Kenny Meesters"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-10T21:39:26+02:00",
+            "date_modified": "2023-10-10T21:43:14+02:00"
+        },
+        {
+            "id": "https://hnpw24.humanitarianstudents.org/program-2/",
+            "url": "https://hnpw24.humanitarianstudents.org/program-2/",
+            "title": "Program",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kenny Meesters"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-10T21:38:47+02:00",
+            "date_modified": "2023-10-10T21:38:47+02:00"
+        },
+        {
+            "id": "https://hnpw24.humanitarianstudents.org/welkom/",
+            "url": "https://hnpw24.humanitarianstudents.org/welkom/",
             "title": "Welkom",
             "summary": "Program",
             "content_html": "\n  <div class=\"post__toc\">\n    <h3>ToC</h3>\n    <ul>\n      <li><a href=\"#program\">Program</a></li>\n    </ul>\n  </div>\n  \n\n    <h2 id=\"program\">\n      Program\n    </h2>\n\n  <p>\n    \n  </p>",
